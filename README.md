@@ -36,6 +36,11 @@ This repository documents my progress in building a **Defense in Depth** cyberse
 
 ---
 
+## 📸 Screenshots & Documentation  
+This section provides **visual documentation** of my lab setup, testing, and findings
+![My system so far]
+
+
 ## 📊 Progress Tracker  
 | Date | Task | Status |
 |------|------|--------|
