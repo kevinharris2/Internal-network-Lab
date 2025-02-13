@@ -71,8 +71,7 @@ This section provides **visual documentation** of my lab setup, testing, and fin
 
 ## 📎 Resources & References  
 - [Ethical Hacking A hands-on Introduction to breaking in](https://danielggraham.com/ethical-hacking-a-hands-on-guide-to-breaking-in/)
-- [pfSense Documentation](https://docs.netgate.com/pfsense/en/latest/)  
-- [Metasploit Cheat Sheet](https://highon.coffee/blog/metasploit-cheat-sheet/)  
+- [pfSense Documentation](https://docs.netgate.com/pfsense/en/latest/)    
 - [Wireshark Tutorials](https://www.wireshark.org/docs/)  
 
 ---
