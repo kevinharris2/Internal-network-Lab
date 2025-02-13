@@ -39,10 +39,12 @@ This repository documents my progress in building a **Defense in Depth** cyberse
 ## 📸 Screenshots & Documentation  
 This section provides **visual documentation** of my lab setup, testing, and findings
 
-<img src="https://imgur.com/ZWUziay" alt="VirtualBox" width="20%" height="20%" />
+<p align="center">
+    <img src="https://imgur.com/ZWUziay.png" alt="VirtualBox" width="22%" style="margin-right: 10px;">
+    <img src="https://imgur.com/LIGxty2.png" alt="Screen 1" width="22%" style="margin-right: 10px;">
+    <img src="https://imgur.com/YOUR_IMAGE_2.png" alt="Screen 2" width="22%" style="margin-right: 10px;">
+    <img src="https://imgur.com/YOUR_IMAGE_3.png" alt="Screen 3" width="22%">
 </p>
-
-
 
 ## 📊 Progress Tracker  
 | Date | Task | Status |
