@@ -1,4 +1,4 @@
-# 🛡️ Defense in Depth/Interal Network Lab Progress
+# 🛡️ Defense in Depth/Internal Network Lab Progress
 
 ## 📌 Overview  
 This repository documents my progress in building a **Defense in Depth** cybersecurity lab. It includes **network segmentation, attack simulations, monitoring, and response mechanisms** to enhance security posture.
